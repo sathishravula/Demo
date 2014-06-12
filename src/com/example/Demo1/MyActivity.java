@@ -13,5 +13,6 @@ public class MyActivity extends Activity {
     super.onCreate(savedInstanceState);
     setContentView(R.layout.main);
     Log.d("test", "hai");
+    Log.d("test", "hai1");
   }
 }
