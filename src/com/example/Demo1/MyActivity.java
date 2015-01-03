@@ -12,7 +12,5 @@ public class MyActivity extends Activity {
   public void onCreate(Bundle savedInstanceState) {
     super.onCreate(savedInstanceState);
     setContentView(R.layout.main);
-    Log.d("test", "hai");
-    Log.d("test", "hai1");
   }
 }
